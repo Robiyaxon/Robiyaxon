@@ -6,8 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robiyaxon)
 
 
-<img align="right" width='55%' src="https://github-readme-stats.vercel.app/api?username=Robiyaxon&show_icons=true&hide_border=true">
-
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark
 ## 🧐 About my Github status
 <div>
 
